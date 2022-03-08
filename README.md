@@ -122,7 +122,7 @@
       alt="Logo Visual Studio Code"
       src="./screens/vscode.png"
     >
-  </a> &nbsp;
+  </a>
   <a
     href="#"
   >
@@ -159,3 +159,20 @@
   </a>
   browser for development purposes.
 </p>
+
+### STELLAR PROGRAMMING GUIDE
+
+#### PROGRAMMING FUNDAMENTALS
+
+<h3
+  align="capitalize"
+>
+  <img
+    alt="Programming Fundamentals"
+    src="./screens/fundamentals_programming.svg"
+  />
+</h3>
+
+#### WHAT IS PROGRAMMING?
+
+#### HOW DOES THE WEB WORK?
